@@ -20,7 +20,9 @@ What would happen if you put tzatziki into your orange juice when you don't have
 
 </br>
 
+<p align='center'>
 <img src="tz.jpg" alt="drawing" width="100" height="100"/> <img src="plus.png" alt="drawing" width="100" height="100"/> <img src="garlic.png" alt="drawing" width="100" height="100"/> <img src="equal.png" alt="drawing" width="100" height="100"/> <img src="happy.svg" alt="drawing" width="100" height="100"/>
+</p>
 
 Another issue was negative examples generation (aim for balanced dataset).
 We created recipes with random ingredients sampled from over 8000 different types with a specific length distribution.
