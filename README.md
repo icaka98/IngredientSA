@@ -34,9 +34,6 @@ One lovely negative recipe worth mentioning:
 
 cactus, nonfat buttermilk, soybean sprouts, nectarines, northern beans, banana, ton skins, black pepper, english cucumber, oyster mushrooms, tomato sauce, frogs legs, spam
 
-## Problem
-The main problem was how to represent those lists of ingredients in order to best suit our task.
-
 ## Models
 This research implements four models which reach the following results: 
 
