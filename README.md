@@ -1,6 +1,6 @@
 <h1 align='center'>
   Sentiment Analysis on Ingredients 
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Markdownify" width='135'>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://github.com/icaka98/IngredientSA/" alt="Markdownify" width='135'>
   </a>
 </h1>
 
