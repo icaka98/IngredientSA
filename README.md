@@ -17,7 +17,7 @@ We gathered data from various sources, so that it represents as many cuisine spe
 What would happen if you put tzatziki into your orange juice when you don't have tzaziki in your vocabulary?
 
 <p align='center'>
-<img src="juice.jpg" alt="drawing" width="100" height="100"/> <img src="plus.png" alt="drawing" width="100" height="100"/> <img src="tz.jpg" alt="drawing" width="100" height="100"/> <img src="equal.png" alt="drawing" width="100" height="100"/> <img src="sick.svg" alt="drawing" width="100" height="100"/>
+<img src="orange.jpg" alt="drawing" width="100" height="100"/> <img src="plus.png" alt="drawing" width="100" height="100"/> <img src="tz.jpg" alt="drawing" width="100" height="100"/> <img src="equal.png" alt="drawing" width="100" height="100"/> <img src="sick.svg" alt="drawing" width="100" height="100"/>
 </p>
 
 </br>
