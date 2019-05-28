@@ -1,9 +1,8 @@
 import json
 from matplotlib import pyplot as plt
-import seaborn as sns
-
 import pandas as pd
-import plotly.plotly
+
+
 with open('../data/train.json', 'r') as f:
     train = json.load(f)
 
@@ -27,10 +26,14 @@ f = open(filename, "w+")
 
 f.close()
 
-#accented_string =
-# accented_string is of type 'unicode'
-
-#unaccented_string = unidecode.unidecode(accented_string)
+###Plotting distribution of ingredients
+train_df = pd.read_json('../data/train.json')
+plt.hist(train_df['ingredients'].str.len(),bins=max(train_df['ingredients'].str.len()),color='g', edgecolor = 'black')
+plt.gcf().set_size_inches(12,8)
+plt.ylabel("count of recipes")
+plt.xlabel("number of ingredients")
+plt.title('Ingredients in a Dish Distribution')
+plt.show()
 
 
 def cleanbrackets(param):
