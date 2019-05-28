@@ -34,16 +34,19 @@ The main problem was how to represent those lists of ingredients in order to bes
 ## Models
 This research implements four models which reach the following results: 
 
-<img src="juice.jpg" alt="drawing" width="50" height="50"/><img src="juice.jpg" alt="drawing" width="50" height="50"/>
-<img src="juice.jpg" alt="drawing" width="50" height="50"/>
-<img src="juice.jpg" alt="drawing" width="50" height="50"/>
-<img src="juice.jpg" alt="drawing" width="50" height="50"/>
+<img src="juice.jpg" alt="drawing" width="100" height="100"/>
+<img src="plus.png" alt="drawing" width="100" height="100"/>
+<img src="tz.jpg" alt="drawing" width="100" height="100"/>
+<img src="equal.png" alt="drawing" width="100" height="100"/>
+<img src="sick.svg" alt="drawing" width="100" height="100"/>
 
-![Model](juice.jpg =50x20 "Orange")
-![Model](plus.png =50x20 "Tf-idf model")
-![Model](tz.jpg "Word2vec model")
-![Model](equal.png "d")
-![Model](sick.svg "d")
+</br>
+
+<img src="tz.jpg" alt="drawing" width="100" height="100"/>
+<img src="plus.png" alt="drawing" width="100" height="100"/>
+<img src="garlic.png" alt="drawing" width="100" height="100"/>
+<img src="equal.png" alt="drawing" width="100" height="100"/>
+<img src="happy.svg" alt="drawing" width="100" height="100"/>
 
 
 ## Research Future
