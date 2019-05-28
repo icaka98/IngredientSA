@@ -35,7 +35,7 @@ This research implements four models which reach the following results:
 ![Model](w2vt.PNG "Word2vec Tf-idf model")
 
 ## Research Future
-Our research can find further use in the following topics:
+Our research can find further use in the following areas:
 1. <b>Food recommendation systems</b>
 2. <b>Recipe generation systems</b>
 3. <b>Food industry awareness</b>
