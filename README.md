@@ -12,8 +12,6 @@ Often people find themselves in a situation when they wonder if adding a certain
 <h3 align='center'>I absolutely loved the movie! It was beef, rice and vinegar!</h3>
 <h3 align='center'>This movie is cactus, frog legs and dark chocolate!</h3>
 
-## Data
-We gathered data from various sources, so that it represents as many cuisine specific ingredients as possible.
 What would happen if you put tzatziki into your orange juice when you don't have tzaziki in your vocabulary?
 
 <p align='center'>
@@ -26,12 +24,15 @@ What would happen if you put tzatziki into your orange juice when you don't have
 <img src="tz.jpg" alt="drawing" width="100" height="100"/> <img src="plus.png" alt="drawing" width="100" height="100"/> <img src="garlic.png" alt="drawing" width="100" height="100"/> <img src="equal.png" alt="drawing" width="100" height="100"/> <img src="happy.svg" alt="drawing" width="100" height="100"/>
 </p>
 
+## Data
+We gathered data from various sources, so that it represents as many cuisine specific ingredients as possible.
+
 Another issue was negative examples generation (aim for balanced dataset).
 We created recipes with random ingredients sampled from over 8000 different types with a specific length distribution.
 
 One lovely negative recipe worth mentioning:
 
-cactus, morcilla, nonfat buttermilk, soybean sprouts, nectarines, spaghetti, northern beans, black pepper, banana, ton skins, black pepper, pasta sauce, spray, english cucumber, oyster mushrooms, tomato sauce, frogs legs, spam
+cactus, nonfat buttermilk, soybean sprouts, nectarines, northern beans, banana, ton skins, black pepper, english cucumber, oyster mushrooms, tomato sauce, frogs legs, spam
 
 ## Problem
 The main problem was how to represent those lists of ingredients in order to best suit our task.
