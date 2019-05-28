@@ -9,8 +9,8 @@
 ## Novel Idea
 Often people find themselves in a situation when they wonder if adding a certain component to a meal will improve or worsen its taste. This problem leads to the question of whethera specific ingredient combination tastes delicious or disgusting. This research scrapes and brings together several datasets about various recipes from  worldwide cuisines. Each recipe has a list of ingredients. The goal of this paper is to create a model that can evaluate correctly the tastiness of the ingredient combination. Thus, we call th idea Sentiment Analysis on Ingredients. Imagine people using ingredients to express opinions:
 
-<h3 align='center'>This movie is cactus, frog legs and dark chocolate!</h3>
 <h3 align='center'>I absolutely loved the movie! It was beef, rice and vinegar!</h3>
+<h3 align='center'>This movie is cactus, frog legs and dark chocolate!</h3>
 
 ## Data
 We gathered data from various sources, so that it represents as many cuisine specific ingredients as possible.
