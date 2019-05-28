@@ -12,7 +12,10 @@ Often people find themselves in a situation when they wonder if adding a certain
 <h3 align='center'>I absolutely loved the movie! It was beef, rice and vinegar!</h3>
 <h3 align='center'>This movie is cactus, frog legs and dark chocolate!</h3>
 
-What would happen if you put tzatziki into your orange juice when you don't have tzaziki in your vocabulary?
+</br>
+</br>
+
+<h5 align='center'>What would happen if you put tzatziki into your orange juice when you don't have tzaziki in your vocabulary?<\h5>
 
 <p align='center'>
 <img src="orange.jpg" alt="drawing" width="100" height="100"/> <img src="plus.png" alt="drawing" width="100" height="100"/> <img src="tz.jpg" alt="drawing" width="100" height="100"/> <img src="equal.png" alt="drawing" width="100" height="100"/> <img src="sick.svg" alt="drawing" width="100" height="100"/>
@@ -25,7 +28,7 @@ What would happen if you put tzatziki into your orange juice when you don't have
 </p>
 
 ## Data
-We gathered data from various sources, so that it represents as many cuisine specific ingredients as possible.
+We gathered data from various sources (Kaggle datasets, scraping), so that it represents as many cuisine specific ingredients as possible.
 
 Another issue was negative examples generation (aim for balanced dataset).
 We created recipes with random ingredients sampled from over 8000 different types with a specific length distribution.
