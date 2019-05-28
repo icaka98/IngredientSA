@@ -16,6 +16,11 @@ Often people find themselves in a situation when they wonder if adding a certain
 We gathered data from various sources, so that it represents as many cuisine specific ingredients as possible.
 What would happen if you put tzatziki into your orange juice when you don't have tzaziki in your vocabulary?
 
+![Model](bow.PNG "BoW model")
+![Model](tfidf.PNG "Tf-idf model")
+![Model](w2v.PNG "Word2vec model")
+![Model](w2vt.PNG "Word2vec Tf-idf model")
+
 Another issue was negative examples generation (aim for balanced dataset).
 We created recipes with random ingredients sampled from over 8000 different types with a specific length distribution.
 
@@ -29,10 +34,17 @@ The main problem was how to represent those lists of ingredients in order to bes
 ## Models
 This research implements four models which reach the following results: 
 
-![Model](bow.PNG "BoW model")
-![Model](tfidf.PNG "Tf-idf model")
-![Model](w2v.PNG "Word2vec model")
-![Model](w2vt.PNG "Word2vec Tf-idf model")
+<img src="juice.jpg" alt="drawing" width="50" height="50"/><img src="juice.jpg" alt="drawing" width="50" height="50"/>
+<img src="juice.jpg" alt="drawing" width="50" height="50"/>
+<img src="juice.jpg" alt="drawing" width="50" height="50"/>
+<img src="juice.jpg" alt="drawing" width="50" height="50"/>
+
+![Model](juice.jpg =50x20 "Orange")
+![Model](plus.png =50x20 "Tf-idf model")
+![Model](tz.jpg "Word2vec model")
+![Model](equal.png "d")
+![Model](sick.svg "d")
+
 
 ## Research Future
 Our research can find further use in the following areas:
