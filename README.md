@@ -13,9 +13,11 @@ Often people find themselves in a situation when they wonder if adding a certain
 <h3 align='center'>This movie is cactus, frog legs and dark chocolate!</h3>
 
 </br>
-</br>
 
-<h5 align='center'>What would happen if you put tzatziki into your orange juice when you don't have tzaziki in your vocabulary?<\h5>
+<h4 align='center'>What would happen if you put tzatziki into your orange juice when you don't have tzaziki in your vocabulary?<\h4>
+
+</br>
+</br>
 
 <p align='center'>
 <img src="orange.jpg" alt="drawing" width="100" height="100"/> <img src="plus.png" alt="drawing" width="100" height="100"/> <img src="tz.jpg" alt="drawing" width="100" height="100"/> <img src="equal.png" alt="drawing" width="100" height="100"/> <img src="sick.svg" alt="drawing" width="100" height="100"/>
