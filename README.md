@@ -9,9 +9,9 @@
 ## Novel Idea
 Often people find themselves in a situation when they wonder if adding a certain component to a meal will improve or worsen its taste. This problem leads to the question of whethera specific ingredient combination tastes delicious or disgusting. This research scrapes and brings together several datasets about various recipes from  worldwide cuisines. Each recipe has a list of ingredients. The goal of this paper is to create a model that can evaluate correctly the tastiness of the ingredient combination. Thus, we call th idea Sentiment Analysis on Ingredients.
 
-### Imagine people using ingredients to express opinions:
-<h3 align='center'>'This movie is cactus, frog legs and dark chocolate!'</h3>
-<h3 align='center'>'I absolutely loved the movie! It was beef, rice and vinegar!'</h3>
+### - Imagine people using ingredients to express opinions:
+<h3 align='center'>This movie is cactus, frog legs and dark chocolate!</h3>
+<h3 align='center'>I absolutely loved the movie! It was beef, rice and vinegar!</h3>
 
 ## Data
 We gathered data from various sources, so that it represents as many cuisine specific ingredients as possible.
@@ -28,6 +28,7 @@ cactus, morcilla, nonfat buttermilk, soybean sprouts, nectarines, spaghetti, nor
 The main problem was how to represent those lists of ingredients in order to best suit our task.
 
 ## Models
+This research implements four models which reach the following results: 
 
 ![Model](bow.PNG "BoW model")
 ![Model](tfidf.PNG "Tf-idf model")
@@ -36,6 +37,6 @@ The main problem was how to represent those lists of ingredients in order to bes
 
 ## Research Future
 Our research can find further use in the following topics:
-1. Food recommendation systems
-2. Recipe generation systems
-3. Food industry awareness
+1. <b>Food recommendation systems</b>
+2. <b>Recipe generation systems</b>
+3. <b>Food industry awareness</b>
