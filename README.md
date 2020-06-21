@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-![Ingredients](Ingredients.jpg "Ingredients")
+![Ingredients](images/Ingredients.jpg "Ingredients")
 
 ## Novel Idea
 Often people find themselves in a situation when they wonder if adding a certain component to a meal will improve or worsen its taste. This problem leads to the question of whether a specific ingredient combination tastes delicious or disgusting. This research scrapes and brings together several datasets about various recipes from  worldwide cuisines. Each recipe has a list of ingredients. The goal of this paper is to create a model that can evaluate correctly the tastiness of the ingredient combination. Thus, we call th idea Sentiment Analysis on Ingredients. Imagine people using ingredients to express opinions:
