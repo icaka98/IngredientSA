@@ -20,13 +20,13 @@ Often people find themselves in a situation when they wonder if adding a certain
 </br>
 
 <p align='center'>
-<img src="orange.jpg" alt="drawing" width="100" height="100"/> <img src="plus.png" alt="drawing" width="100" height="100"/> <img src="tz.jpg" alt="drawing" width="100" height="100"/> <img src="equal.png" alt="drawing" width="100" height="100"/> <img src="sick.svg" alt="drawing" width="100" height="100"/>
+<img src="images/orange.jpg" alt="drawing" width="100" height="100"/> <img src="images/plus.png" alt="drawing" width="100" height="100"/> <img src="images/tz.jpg" alt="drawing" width="100" height="100"/> <img src="images/equal.png" alt="drawing" width="100" height="100"/> <img src="images/sick.svg" alt="drawing" width="100" height="100"/>
 </p>
 
 </br>
 
 <p align='center'>
-<img src="tz.jpg" alt="drawing" width="100" height="100"/> <img src="plus.png" alt="drawing" width="100" height="100"/> <img src="garlic.png" alt="drawing" width="100" height="100"/> <img src="equal.png" alt="drawing" width="100" height="100"/> <img src="happy.svg" alt="drawing" width="100" height="100"/>
+<img src="images/tz.jpg" alt="drawing" width="100" height="100"/> <img src="images/plus.png" alt="drawing" width="100" height="100"/> <img src="images/garlic.png" alt="drawing" width="100" height="100"/> <img src="images/equal.png" alt="drawing" width="100" height="100"/> <img src="images/happy.svg" alt="drawing" width="100" height="100"/>
 </p>
 
 ## Data
@@ -42,10 +42,10 @@ cactus, nonfat buttermilk, soybean sprouts, nectarines, northern beans, banana, 
 ## Models
 This research implements four models which reach the following results: 
 
-![Model](bow.PNG "BoW model")
-![Model](tfidf.PNG "Tf-idf model")
-![Model](w2v.PNG "Word2vec model")
-![Model](w2vt.PNG "Word2vec Tf-idf model")
+![Model](images/bow.PNG "BoW model")
+![Model](images/tfidf.PNG "Tf-idf model")
+![Model](images/w2v.PNG "Word2vec model")
+![Model](images/w2vt.PNG "Word2vec Tf-idf model")
 
 ## Research Future
 Our research can find further use in the following areas:
